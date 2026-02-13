@@ -11,7 +11,7 @@ Recordad:
 - Víctor Rey - Técnico CSS (Estilista):
   · Descarga el archivo del repo llamado 'Proyecto.css'.
   · Haz una hoja de estilos sencillita con un fondo del color que quieras.
-  · Si quieres darle estilo a algo más, hay una etiqueta <h1>, un <p> y 2 botones, uno con id 'toeuro' y otro 'todollar'.
+  · Si quieres darle estilo a algo más, hay una etiqueta "<h1>", un "<p>" y 2 botones, uno con id 'toeuro' y otro 'todollar'.
 
 
   POR LO DEMÁS, RECORDAD NO CAMBIAR EL NOMBRE DEL ARCHIVO PORQUE SI NO, NO VA A FUNCIONAR CUANDO LOS JUNTE.
